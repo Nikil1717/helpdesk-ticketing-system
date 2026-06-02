@@ -1,0 +1,20 @@
+# Backend
+helpdesk/target/
+helpdesk/.classpath
+helpdesk/.project
+helpdesk/.settings/
+
+# Frontend
+helpdesk-ui/node_modules/
+helpdesk-ui/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
