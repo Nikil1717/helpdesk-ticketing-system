@@ -1,0 +1,20 @@
+# Backend
+helpdesk/target/
+
+# Frontend
+helpdesk-ui/node_modules/
+helpdesk-ui/dist/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
